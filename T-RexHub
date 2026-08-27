@@ -759,7 +759,7 @@ UserInputService.InputEnded:Connect(function(input)
 end)
 local Tabs = {
   Shop = Window:AddTab({Title = "Shop", Icon = "shopping-cart"}),
-  Combat = Window:AddTab({Title = "Farm", Icon = "user"}),
+  Combat = Window:AddTab({Title = "Visual/Combat", Icon = "user"}),
   Settings = Window:AddTab({Title = "Settings", Icon = "rbxassetid://7734053495"}),
   Main = Window:AddTab({Title = "Farm", Icon = "home"}),
   Melee = Window:AddTab({Title = "Artes marciais", Icon = "rbxassetid://11162889532"}),
@@ -768,7 +768,7 @@ local Tabs = {
   Mirage = Window:AddTab({Title = "Mirage/V4", Icon = "rbxassetid://11162889532"}),
   Drago = Window:AddTab({Title = "Drago Dojo", Icon = "layers"}),
   Prehistoric = Window:AddTab({Title = "Volcano", Icon = "flame"}),
-  Raids = Window:AddTab({Title = "Raid", Icon = "skull"}),
+  Raids = Window:AddTab({Title = "Dungeon/Raid", Icon = "skull"}),
   Travel = Window:AddTab({Title = "Travel", Icon = "map-pin"}),
   Fruit = Window:AddTab({Title = "Fruits", Icon = "cherry"}),
   Misc = Window:AddTab({Title = "Misc", Icon = "rbxassetid://6031280882"})
