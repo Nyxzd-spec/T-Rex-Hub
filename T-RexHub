@@ -708,8 +708,8 @@ ToggleButton.Position = UDim2.new(0.15, 0, 0.15, 0)
 ToggleButton.BackgroundColor3 = Color3.fromRGB(30,30,30) -- nền cho tròn rõ
 ToggleButton.BackgroundTransparency = 0
 ToggleButton.BorderSizePixel = 0
-ToggleButton.Image = "rbxassetid://138869397973700"
-ToggleButton.ScaleType = Enum.ScaleType.Crop -- FIX TRÒN CHUẨN
+ToggleButton.Image = "rbxassetid://98214912526593"
+ToggleButton.ScaleType = Enum.ScaleType.Crop -- FIX PERFEITAMENTE REDONDO
 ToggleButton.Parent = ScreenGui
 
 -- bo tròn chuẩn 45x45
@@ -768,7 +768,7 @@ local Tabs = {
   Mirage = Window:AddTab({Title = "Mirage/V4", Icon = "rbxassetid://11162889532"}),
   Drago = Window:AddTab({Title = "Drago Dojo", Icon = "layers"}),
   Prehistoric = Window:AddTab({Title = "Volcano", Icon = "flame"}),
-  Raids = Window:AddTab({Title = "Dungeon/Raid", Icon = "skull"}),
+  Raids = Window:AddTab({Title = "Raid", Icon = "skull"}),
   Travel = Window:AddTab({Title = "Travel", Icon = "map-pin"}),
   Fruit = Window:AddTab({Title = "Fruits", Icon = "cherry"}),
   Misc = Window:AddTab({Title = "Misc", Icon = "rbxassetid://6031280882"})
