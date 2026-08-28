@@ -708,7 +708,7 @@ ToggleButton.Position = UDim2.new(0.15, 0, 0.15, 0)
 ToggleButton.BackgroundColor3 = Color3.fromRGB(30,30,30) -- nền cho tròn rõ
 ToggleButton.BackgroundTransparency = 0
 ToggleButton.BorderSizePixel = 0
-ToggleButton.Image = "rbxassetid://98214912526593"
+ToggleButton.Image = "rbxassetid://72662208795798"
 ToggleButton.ScaleType = Enum.ScaleType.Crop -- FIX PERFEITAMENTE REDONDO
 ToggleButton.Parent = ScreenGui
 
